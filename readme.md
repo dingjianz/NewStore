@@ -43,6 +43,10 @@ node_modules/ 忽略node_modules 文件下的所有文件
 ### 删除分支(注意：不能自杀，只能别人删除)
     - git branch -d dev 删除 dev 分支
 
+## 提交代码到github（当作git服务器来用）
+    - git push 【地址】 master ： git push https://github.com/dingjianz/NewStore.git master
+        + 会把当前分支的内容上传到远程的master分支上
+
 #注释：
  + 工作区包括myproject，除了 .git 文件夹
  + 大门口又称暂存区，在 .git 里
