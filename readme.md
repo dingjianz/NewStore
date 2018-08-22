@@ -53,5 +53,4 @@ node_modules/ 忽略node_modules 文件下的所有文件
  + git reflog  可以看到每一次切换版本的记录
 
  
-###实现了功能5
-###在master中实现功能6
+
