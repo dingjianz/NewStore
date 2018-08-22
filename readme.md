@@ -10,3 +10,11 @@
 
 ### 若文件更新，则重复操作
     + git add ./readme.md  可以tab键自动补全
+
+### git commit -m "some message"
+
+#注释：
+ + 工作区包括myproject，除了 .git 文件夹
+ + 大门口又称暂存区，在 .git 里
+ + .git 中的房间 又称为 版本库
+ + git status 可以查看文件上传情况
